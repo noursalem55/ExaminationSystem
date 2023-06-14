@@ -1,0 +1,6 @@
+a)True b)False
+ a)hperText b)programming language c)graphic d)nothing
+ a)html b)c# c)js d)bootstrap
+a)True b)False
+ a)!! b)!? c)? d)??
+ a)C# b)N# c)F# d)B#

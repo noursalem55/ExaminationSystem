@@ -1,0 +1,12 @@
+Q-IS c# programming language ? 
+ T
+Q-what c#  ? 
+ programming language
+Q-what is programming language exist in this list ? 
+ c#,js
+Q-IS M# in .net framework ? 
+ F
+Q-what nullable operator  ? 
+ ?
+Q-what is programming language exist in .net fram work ? 
+ C#,F#
